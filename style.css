@@ -1,0 +1,9 @@
+#titulo {
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.form-control {
+    margin-bottom: 25px;
+}
